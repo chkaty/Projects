@@ -2,25 +2,25 @@
 
 ## 2018
 
-- ### [Gomoku](liu-liuz.github.io/gomoku/)
+- ### [Gomoku](https://liu-liuz.github.io/gomoku/)
 
   For detail codes, see the file for [gomoku project](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/gomoku).
 
-- ### [2048](liu-liuz.github.io/2048/)
+- ### [2048](https://liu-liuz.github.io/2048/)
 
   For detail codes, see the file for [2048 project](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/2048).
 
-- ### [Colour Game](liu-liuz.github.io/colourgame/)
+- ### [Colour Game](https://liu-liuz.github.io/colourgame/)
 
   For detail codes, see the file for [colour game](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/colourgame).
 
-- ### [Room Escape Game](liu-liuz.github.io/majorproject/)
+- ### [Room Escape Game](https://liu-liuz.github.io/majorproject/)
 
   Note: the game might need some time to load. 
   
   For detail codes, see the file for [room escape game](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/majorproject).
 
-- ### [Turtle](liu-liuz.github.io/turtle/)
+- ### [Turtle](https://liu-liuz.github.io/turtle/)
 
   For detail codes, see the file for [turtle project](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/turtle).
   
