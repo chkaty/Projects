@@ -14,7 +14,7 @@
 
   For detail codes, see the file for [colour game](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/colourgame).
 
-- ### [Room Escape Game](https://liu-liuz.github.io/majorproject/)
+- ### [Room Escape Game](https://liu-liuz.github.io/majorproject/escape/)
 
   Note: the game might need some time to load. 
   
