@@ -24,6 +24,6 @@
 
   For detail codes, see the file for [turtle project](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/turtle).
   
-  ## 2021
+## 2021
   - ### [CSCB63 Course Web Page](https://github.com/TheJohnsonLai/B20/tree/main/a3)
   - ### [Medical Clinic App](https://github.com/liu-liuz/B07.git)
