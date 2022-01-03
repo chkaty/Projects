@@ -26,4 +26,13 @@
   
 ## 2021
   - ### [CSCB63 Course Web Page](https://github.com/TheJohnsonLai/B20/tree/main/a3)
+  
   - ### [Medical Clinic App](https://github.com/liu-liuz/B07.git)
+  
+  - ### Human Computer Interaction
+    A group project using a user-centered approach to design, develop and evaluate an interactive system by following  the  HCI  guidelines  and  principles. 
+    - [Proposal](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/Proposal.pdf)
+    - Gather [user requirements](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/User%20Requirment%20Gathering.pdf) for a user interface through interviews, surveys, and/or observations.  
+    - Design and develop an [interactive prototype](https://www.figma.com/file/PHInLAvMeQ8H9w3Kkztwaw/Pineapple-team-library). 
+    - [Evaluate the prototype](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/High%20Fidelity%20Prototype.pdf) using evaluation techniques. 
+    - Analyze the [results](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/Report.pdf). 
