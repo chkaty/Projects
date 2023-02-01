@@ -39,4 +39,4 @@
 
 ## 2022
  - ### [Mental Health Tracker](https://github.com/TheJohnsonLai/B20/tree/main/a3)
- A group project using a user-centered approach to design, develop and evaluate an interactive system by following  the  HCI  guidelines  and  principles. 
+   A group project that addressed a real-world challenge and used myriad approaches (design research, brainstorming, prototyping, implementation, and evaluation) to develop a solution to this design problem. 
