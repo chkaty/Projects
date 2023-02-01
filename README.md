@@ -36,3 +36,7 @@
     - Design and develop an [interactive prototype](https://www.figma.com/file/PHInLAvMeQ8H9w3Kkztwaw/Pineapple-team-library). 
     - [Evaluate the prototype](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/High%20Fidelity%20Prototype.pdf) using evaluation techniques. 
     - Analyze the [results](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/Report.pdf). 
+
+## 2022
+ - ### [Mental Health Tracker](https://github.com/TheJohnsonLai/B20/tree/main/a3)
+ A group project using a user-centered approach to design, develop and evaluate an interactive system by following  the  HCI  guidelines  and  principles. 
