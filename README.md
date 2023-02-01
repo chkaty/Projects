@@ -38,7 +38,7 @@
     - Analyze the [results](https://github.com/liu-liuz/Projects/blob/main/Computer%20Human%20Interaction/Report.pdf). 
 
 ## 2022
- - ### [Mental Health Tracker](https://github.com/liu-liuz/Projects/tree/main/Mental%20Health%20Tracker)
+ - ### [Mental Health Tracker](https://github.com/liu-liuz/Projects/tree/main/Mental%20Health%20Tracker) - [Interactive Prototype](https://www.figma.com/proto/yJqG18CDHWlnCYn5d5pHgP/high-fi-a7a?node-id=6%3A4&starting-point-node-id=6%3A4&scaling=contain)
    A group project that addressed a real-world challenge and used myriad approaches (design research, brainstorming, prototyping, implementation, and evaluation) to develop a solution to this design problem. 
    - [Problem Space, Draft Research Plan](https://github.com/liu-liuz/Projects/blob/main/Mental%20Health%20Tracker/A1.ProblemSpace%26ResearchPlan.pdf)
    - Formative Study Research Instrument
