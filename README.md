@@ -2,7 +2,7 @@
 
 ## 2018
 
-- ### [Gomoku]([https://liu-liuz.github.io/gomoku/](https://raw.githack.com/chkaty/miniproject/master/gomoku/index.html))
+- ### [Gomoku]([https://liu-liuz.github.io/gomoku/](https://raw.githack.com/chkaty/miniproject/master/gomoku/index.html)
 
   For detail codes, see the file for [gomoku project](https://github.com/chkaty/miniproject/tree/master/gomoku).
 
