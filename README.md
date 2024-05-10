@@ -6,23 +6,23 @@
 
   For detail codes, see the file for [gomoku project](https://github.com/chkaty/miniproject/tree/master/gomoku).
 
-- ### [2048](https://liu-liuz.github.io/2048/)
+- ### <a href="https://raw.githack.com/chkaty/miniproject/master/2048/index.html" target="_blank">2048</a>
 
-  For detail codes, see the file for [2048 project](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/2048).
+  For detail codes, see the file for [2048 project](https://github.com/chkaty/miniproject/tree/master/2048).
 
-- ### [Colour Game](https://liu-liuz.github.io/colourgame/)
+- ### <a href="https://raw.githack.com/chkaty/miniproject/master/colourgame/index.html" target="_blank">Colour Game</a>
 
-  For detail codes, see the file for [colour game](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/colourgame).
+  For detail codes, see the file for [colour game](https://github.com/chkaty/miniproject/tree/master/colourgame).
 
-- ### [Room Escape Game](https://liu-liuz.github.io/majorproject/escape/)
+- ### <a href="https://raw.githack.com/chkaty/miniproject/master/majorproject/escape/index.html" target="_blank">Room Escape</a>
 
   Note: the game might need some time to load. 
   
-  For detail codes, see the file for [room escape game](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/majorproject).
+  For detail codes, see the file for [room escape game](https://github.com/chkaty/miniproject/tree/master/majorproject).
 
-- ### [Turtle](https://liu-liuz.github.io/turtle/)
+- ### <a href="https://raw.githack.com/chkaty/miniproject/master/turtle/index.html" target="_blank">Turtle</a>
 
-  For detail codes, see the file for [turtle project](https://github.com/liu-liuz/liu-liuz.github.io/tree/master/turtle).
+  For detail codes, see the file for [turtle project](https://github.com/chkaty/miniproject/tree/master/turtle).
   
 ## 2021
   - ### [CSCB63 Course Web Page](https://github.com/TheJohnsonLai/B20/tree/main/a3)
