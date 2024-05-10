@@ -2,7 +2,7 @@
 
 ## 2018
 
-- ### [Gomoku](https://raw.githack.com/chkaty/miniproject/master/gomoku/index.html){:target="_blank" rel="noopener"}
+- ### <a href="https://raw.githack.com/chkaty/miniproject/master/gomoku/index.html" target="_blank">Gomoku</a>
 
   For detail codes, see the file for [gomoku project](https://github.com/chkaty/miniproject/tree/master/gomoku).
 
