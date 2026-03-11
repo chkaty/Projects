@@ -1,6 +1,7 @@
 # Projects
 
 ## 2025
+- ### [Dynamic Event Map](https://github.com/chkaty/Dynamic-Event-Map)
 - ### [Skin-Cancer-Detection-with-3D-TBP](https://github.com/chkaty/Skin-Cancer-Detection-with-3D-TBP)
   ISIC 2024 - Skin Cancer Detection with 3D-TBP is a Kaggle competition focused on developing image-based algorithms for the accurate binary classification between malignant and benign skin lesions.
 - ### [TalkLab](https://talklab.ca/link/alex)
