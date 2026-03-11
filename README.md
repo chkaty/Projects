@@ -2,6 +2,7 @@
 
 ## 2025
 - ### [Dynamic Event Map](https://github.com/chkaty/Dynamic-Event-Map)
+  The [Dynamic Event Map](https://www.dynamic-event-map.cloud/) centralizes user-submitted and public event information, providing a real-time, interactive map to easily discover local activities such as concerts, festivals, food markets, and community gatherings within Toronto. The platform supports community engagement, spontaneous participation, and local exploration in the city.
 - ### [Skin-Cancer-Detection-with-3D-TBP](https://github.com/chkaty/Skin-Cancer-Detection-with-3D-TBP)
   ISIC 2024 - Skin Cancer Detection with 3D-TBP is a Kaggle competition focused on developing image-based algorithms for the accurate binary classification between malignant and benign skin lesions.
 - ### [TalkLab](https://talklab.ca/link/alex)
