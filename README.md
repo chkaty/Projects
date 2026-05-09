@@ -1,4 +1,8 @@
 # Projects
+## 2026
+- ### [FL Architectures for WiFi-Based Human Activity Recognition](https://github.com/mustafayildrim/FL_Architectures_for_WiFi_Based_Human_Activity_Recognition)
+  This project compares two federated learning architectures: (1) Centralized Federated Learning (FedAvg), (2) Decentralized Federated Learning (Graph-Based FL with Ring Topology), using the UT-HAR dataset and three deep learning models.
+  The project is motivated by the lack of controlled comparisons between centralized and decentralized FL for CSI-based HAR. The main goal is to evaluate the accuracy communication trade-off across architectures under a consistent experimental setup.
 
 ## 2025
 - ### [Dynamic Event Map](https://github.com/chkaty/Dynamic-Event-Map)
