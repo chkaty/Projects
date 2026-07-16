@@ -1,6 +1,6 @@
 # Projects
 ## 2026
-- ### [Few-Shot Day-to-Night Translation: Cycle Alignment vs. Example Imitation](https://github.com/mustafayildrim/FL_Architectures_for_WiFi_Based_Human_Activity_Recognition)
+- ### [Few-Shot Day-to-Night Translation: Cycle Alignment vs. Example Imitation](https://github.com/njzfjiang/ece-1508-project)
   Using 10-, 20-, and 50-shot training settings, this project studies whether cycle-consistent learning or paired supervision is more data-efficient for image-to-image translation. We further analyze how performance degrades under increasing data scarcity and characterize the trade-offs between realism, structural preservation, and robustness across the two paradigms.
   
 - ### [FL Architectures for WiFi-Based Human Activity Recognition](https://github.com/mustafayildrim/FL_Architectures_for_WiFi_Based_Human_Activity_Recognition)
